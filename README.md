@@ -48,7 +48,7 @@ To use this script, you need to have `curl` and `jq` installed on your system.
 
 2.  Navigate into the cloned directory:
     ```sh
-    cd your-repo-name
+    cd crt.sh
     ```
 
 3.  Make the script executable:
